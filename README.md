@@ -16,7 +16,7 @@
 <div align=center>
   
 # 🌱 What I'm currently learning
-I just got a Web Full-Stack scholarship, so I'll be learning these technologies:
+I just got a Web Full-Stack scholarship and I'll be learning these technologies:
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50"/>  
