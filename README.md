@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+![banner](banner-all-black.jpg)
 
 <!--
 **TheNatas/TheNatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
