@@ -31,8 +31,8 @@ I just got a Web Full-Stack scholarship, so I'll be learning these technologies:
   
 # Links
   
-<a href="instagram.com/natasnael_"><img src="instagram.png" alt="instagram" width="32"></a>
-<a href="linkedin.com/in/natanael-alves-gabriel"><img src="linkedin.png" alt="linkedin" width="32"></a>
+<a href="https://instagram.com/natasnael_"><img src="instagram.png" alt="instagram" width="32"></a>
+<a href="https://www.linkedin.com/in/natanael-alves-gabriel"><img src="linkedin.png" alt="linkedin" width="32"></a>
 <a href="mailto:natasnael2002@gmail.com"><img src="gmail.png" alt="Gmail" width="32"></a>
 <a href="https://steamcommunity.com/profiles/76561199015106424"><img src="steam-logo.png" alt="steam" width="32"></a>
 <a href="https://open.spotify.com/user/31o3uaqnssc5rzcumqyupbzdt7ka?si=2147032b47294db6"><img src="spotify.png" alt="spotify" width="32"></a>
