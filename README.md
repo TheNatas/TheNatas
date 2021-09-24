@@ -1,7 +1,8 @@
-### Hey
+### Hey,
 
 ![banner](banner.jpg)
 
+##### This is my Github profile. Welcome!
 <!--
 **TheNatas/TheNatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
