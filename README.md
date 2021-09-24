@@ -27,7 +27,7 @@ I just got a Web Full-Stack scholarship, so I'll be learning these technologies:
 
 </div>
 
-<div align=center>
+<div align=center background=white>
   
 # Links
   
