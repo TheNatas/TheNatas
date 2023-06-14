@@ -11,18 +11,15 @@
   
 </div>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Hi. I'm Natanael - as you can tell - and that's my Github page. I'm 19 years old and I started to study computer science during the pandemic, in the middle of 2020. At first, I just wanted to learn what I had to in order to develop my very own games, so I began a Java course. I had zero background on coding at the time, so I gave up of learning it as a primary language, which took me to a friendlier environment for newbies like me: Web development. I learned the basics of HTML, CSS and JavaScript, but I still felt like needing a better comprehension of what programming was, so I ended up falling on CS50, where I could acquire the fundamental understanding that I was searching for. Now, I'm closer to web than game development and I actually love it. I know I'm young enough, so I want to enjoy the time I have for shooting different directions and see what I can get.
+&nbsp;&nbsp;&nbsp;&nbsp;Hi. I'm Natanael - as you can tell - and that's my Github page. I'm 21 years old and I started to study computer science during the pandemic, in the middle of 2020. At first, I just wanted to learn what I had to in order to develop my very own games, so I began a Java course. I had zero background on coding at the time, so I gave up of learning it as a primary language, which took me to a friendlier environment for newbies like me: Web development. I learned the basics of HTML, CSS and JavaScript, but I still felt like needing a better comprehension of what programming was, so I ended up falling on CS50, where I could acquire the fundamental understanding that I was searching for. Now, I'm closer to web than game development and I actually love it. I know I'm young enough, so I want to enjoy the time I have for shooting different directions and see what I can get.
 
 <div align=center>
   
-# 🌱 What I'm currently learning
-I just got a Web Full-Stack scholarship and I'll be learning these technologies:
+# 🌱 What I'm currently working on
+I'm now working on a startup where I develop using the following technologies:
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50"/>  
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>  
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/> 
-&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" width="50"/>  
 &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/>
 
 </div>
